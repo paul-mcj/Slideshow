@@ -1,5 +1,7 @@
 How to Make a Slideshow (v1.0)
 
+[Here is the site](https://paul-mcj.github.io/Slideshow/)
+
 What originally interested me in this project was my need to learn how to incorporate a carousel of images into a larger website project I am working on. Being a beginner, I decided it was better to start smaller, so I took a basic example on building a slideshow (after doing some research) and modified it to make it my own. I did this entire project using HTML5, CSS3 and vanilla JavaScript; no frontend frameworks were used, so it all came down to me hard coding in VS Code.
 
 The project itself is very simple: it shows a functioning slideshow of movie posters (particularly Western movies), and has a red, white and black color theme to support this "gritty" genre, along with an aesthetically rustic font. Though straight-forward and condensed, this particular project took me a week to complete, working on it for a few hours every single day. However, just because of its simple nature does not mean it was easy to do. In fact, I used a wide array of different skills to complete this project, and I will outline them below by examining the three main files that make up this project, starting with the HTML file.
