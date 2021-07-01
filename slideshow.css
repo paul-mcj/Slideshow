@@ -48,6 +48,7 @@
     /*The below font-size ensures that the "base" font size will be responsive and scale appropriately with the viewport.*/
     font-size: calc(1vw + 1em);
     --main-font: "IM Fell DW Pica", serif;
+    --sec-font: "Ewert", cursive;
     --color-100: hsl(0, 0%, 100%);
     --color-200: hsl(0, 100%, 50%);
     --bg-color-100: hsl(0, 0%, 0%);
@@ -98,18 +99,20 @@ header {
 
 /* 1.6 Since this is a small project, I used an adjacent sibling combinator to target the sub-heading of the page to give it some general font qualities and spacing. Again, two media queries manipulate its styles as the page sizes.*/
 header + h1 {
-    font-size: 1.25rem;
+    font-size: 1rem;
     margin-top: 0;
+    color: var(--color-200);
     margin-bottom: 0.5em;
+    font-family: var(--sec-font);
 }
 @media (min-width: 40em) {
     header + h1 {
-        font-size: 1.75rem;
+        font-size: 1.5rem;
     }
 }
 @media (min-width: 75em) {
     header + h1 {
-        font-size: 2.25rem;
+        font-size: 2rem;
     }
 }
 
