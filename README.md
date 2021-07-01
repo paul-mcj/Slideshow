@@ -51,4 +51,7 @@
 
 ## Limitations
 
-I also acknowledge that the current state of the project is limited to browser support. I made this project using FireFox version 90 and realize that it has the possibility of not working properly on other browsers. As I develop more skills, I would like to make sure that more projects of mine are supported on a larger array of browsers.
+- I also acknowledge that the current state of the project is limited to browser support. I made this project using FireFox version 90 and realize that it has the possibility of  not working properly on other browsers. As I develop more skills, I would like to make sure that more projects of mine are supported on a larger array of browsers.
+
+- I also know that on mobile there are some slight visual issues with the highlighting text and chevrons. I imagine that has to do with limited mobile pointers (as this project was made with having a computer mouse as the primary pointing device in mind). Over time, it would be nice to accomodate mobile touchscreens!
+
