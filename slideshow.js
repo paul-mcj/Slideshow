@@ -1,4 +1,4 @@
-/*CSS Style for slideshow.html*/
+/*JS file for slideshow.html*/
 
 /******************************************************************************
 	Table of Contents
